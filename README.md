@@ -1,5 +1,5 @@
-# tristen<opt>
-  <CaseNo>O:YY-TY-#####-INI-RIN &lt;i&gt;example:&lt;/i&gt; 4:23-cv-00131-MSA
+the state of arizina in and for maricopa county in its the  oficial capacity <opt>
+  <>O:YY-TY-#####-INI-RIN &lt;i&gt;example:&lt;/i&gt;-MSA
 </CaseNo>
   <CourtAddress>Sandra Day O&amp;#039;Connor U.S. Courthouse&lt;BR&gt;401 W. Washington Street, Ste 130, SPC 1&lt;BR&gt;Phoenix, AZ 85003-2118</CourtAddress>
   <CourtEmail>ecfhelpphx&amp;#064;azd.uscourts.gov</CourtEmail>
@@ -44,8 +44,8 @@
     <co_translation>Certified as Class Action</co_translation>
   </FlagDefs>
   <FlagDefs>
-    <co_code>CLOSED</co_code>
-    <co_translation>Case Closed</co_translation>
+    <co_code></co_code>
+    <co_translation></co_translation>
   </FlagDefs>
   <FlagDefs>
     <co_code>CMX</co_code>
@@ -56,8 +56,8 @@
     <co_translation>Complex Criminal Case</co_translation>
   </FlagDefs>
   <FlagDefs>
-    <co_code>CONSENT-MAG</co_code>
-    <co_translation>Consent to Magistrate Judge trial</co_translation>
+    <co_code</co_code>
+    <co_translation 
   </FlagDefs>
   <FlagDefs>
     <co_code>CONSOLIDATED</co_code>
@@ -85,7 +85,7 @@
   </FlagDefs>
   <FlagDefs>
     <co_code>DTEATTY</co_code>
-    <co_translation>Detainee Track Pursuant to Local Rule - Case Opened by Attorney</co_translation>
+    <co_translation>Detainee Track Pursuant to Local Rule - </co_translation>
   </FlagDefs>
   <FlagDefs>
     <co_code>EXP</co_code>
@@ -113,7 +113,7 @@
   </FlagDefs>
   <FlagDefs>
     <co_code>MAG-TERMED</co_code>
-    <co_translation>Magistrate Case Termed - CR Case Opened</co_translation>
+    <co_translation>Magistratd</co_translation>
   </FlagDefs>
   <FlagDefs>
     <co_code>MIDP</co_code>
